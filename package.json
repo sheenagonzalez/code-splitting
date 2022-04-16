@@ -1,6 +1,7 @@
 {
   "name": "code-splitting",
   "version": "0.1.0",
+  "homepage": "https://sheenagonzalez.github.io/code-splitting",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
